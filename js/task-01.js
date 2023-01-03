@@ -6,7 +6,7 @@ const categorysArr = items.map((item) => {
     const stringElem = [...titleName[1].children];
     const stringCategory = `Category: ${titleName[0].textContent} 
 Elements: ${stringElem.length}`;
-    console.log(stringCategory);
+    
 
  
 })
